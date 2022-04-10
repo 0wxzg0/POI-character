@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="402eb141-4ed8-43d9-9cc9-bf667c11ab87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="clustering" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="23iseeXI5TEOsJPKdiwCj2nbxM4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dataset" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\clustering" />
+      <recent name="E:\PycharmProjects\clustering\clusters" />
+      <recent name="E:\PycharmProjects\clustering\dataset" />
+      <recent name="E:\PycharmProjects\clustering\cluster" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\clustering\dataset" />
+      <recent name="E:\PycharmProjects\clustering" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.get_topics">
+    <configuration name="cl_meanshift" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clusters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clusters/cl_meanshift.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_topics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_topics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="person5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/person5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_topics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_topics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_topics" />
+        <item itemvalue="Python.person5" />
+        <item itemvalue="Python.person4" />
+        <item itemvalue="Python.cl_meanshift" />
+        <item itemvalue="Python.test_topics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="402eb141-4ed8-43d9-9cc9-bf667c11ab87" name="Default Changelist" comment="" />
+      <created>1642228338501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642228338501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="178" key="#Notifications" timestamp="1648543826327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="318" y="178" key="#Notifications/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1648543826327" />
+    <state x="908" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648608387630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1644300213316" />
+    <state x="908" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1648608387630" />
+    <state x="526" y="199" key="FileChooserDialogImpl" timestamp="1643287314104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="199" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1643287314104" />
+    <state width="1614" height="292" key="GridCell.Tab.0.bottom" timestamp="1649630738204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1083" height="266" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645192690293" />
+    <state width="1292" height="106" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431395" />
+    <state width="1614" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649630738204" />
+    <state width="1614" height="292" key="GridCell.Tab.0.center" timestamp="1649630738204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1083" height="266" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645192690293" />
+    <state width="1292" height="106" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431395" />
+    <state width="1614" height="292" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649630738204" />
+    <state width="1614" height="292" key="GridCell.Tab.0.left" timestamp="1649630738204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1083" height="266" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645192690293" />
+    <state width="1292" height="106" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431395" />
+    <state width="1614" height="292" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649630738204" />
+    <state width="1614" height="292" key="GridCell.Tab.0.right" timestamp="1649630738204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1083" height="266" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645192690293" />
+    <state width="1292" height="106" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431395" />
+    <state width="1614" height="292" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649630738204" />
+    <state width="1612" height="232" key="GridCell.Tab.1.bottom" timestamp="1649241000515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="744" height="175" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643294804603" />
+    <state width="1292" height="106" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431397" />
+    <state width="1612" height="232" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649241000515" />
+    <state width="1612" height="232" key="GridCell.Tab.1.center" timestamp="1649241000436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="744" height="175" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1643294804603" />
+    <state width="1292" height="106" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431397" />
+    <state width="1612" height="232" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649241000436" />
+    <state width="1612" height="232" key="GridCell.Tab.1.left" timestamp="1649241000435">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="744" height="175" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1643294804603" />
+    <state width="1292" height="106" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431396" />
+    <state width="1612" height="232" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649241000435" />
+    <state width="1612" height="232" key="GridCell.Tab.1.right" timestamp="1649241000436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="744" height="175" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1643294804603" />
+    <state width="1292" height="106" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@-1920.0.1536.824" timestamp="1642662431397" />
+    <state width="1612" height="232" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1649241000436" />
+    <state x="428" y="172" key="SettingsEditor" timestamp="1648717623464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="249" y="100" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1644131712536" />
+    <state x="428" y="172" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1648717623464" />
+    <state x="435" y="198" width="672" height="538" key="search.everywhere.popup" timestamp="1644914867658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="198" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1644914867658" />
+    <state x="544" y="250" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1642324249238" />
+  </component>
+</project>
