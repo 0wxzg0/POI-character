@@ -22,4 +22,5 @@ Python3.8
 - person4.py：（旧）调用聚类算法，分析用户特征
 - person5.py：调用聚类算法，生成用户基于POI的轨迹特征向量
 - poi4.py：调用API生成POI数据集
+- test_topics_stability.py：测试结果稳定性
 - 其它：已废弃
