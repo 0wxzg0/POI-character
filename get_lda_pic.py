@@ -10,8 +10,8 @@ import pyLDAvis.gensim_models
 id2word = {0:'food',1:'hotel',2:'shopping',3:'service',4:'beauty',5:'travel',6:'entertainment',7:'sports',8:'education',9:'media',10:'medicine',11:'car',12:'traffic',13:'finace',14:'estate',15:'company',16:'government'}
 pathn = 'lda_result/'
 
-tagn = '_above200_500m'
-data = pd.read_pickle('dataset/user_context_matrix_above200_dis500.pkl')
+tagn = '_above200_150m'
+data = pd.read_pickle('dataset/user_context_matrix_above200.pkl')
 
 
 
